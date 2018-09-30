@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  HassanJasim_Lab_2.3.cpp
+c:\users\hassan\desktop\folders\folders\school\school assigments\b-tech\comsci\hassanjasim_lab_2.3\hassanjasim_lab_2.3\hassanjasim_lab_2.3.cpp(34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  HassanJasim_Lab_2.3.vcxproj -> C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\B-tech\ComSci\HassanJasim_Lab_2.3\Debug\HassanJasim_Lab_2.3.exe
