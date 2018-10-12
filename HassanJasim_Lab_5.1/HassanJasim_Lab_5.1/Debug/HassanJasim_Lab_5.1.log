@@ -1,0 +1,15 @@
+﻿Build started 2016-11-20 4:57:46 PM.
+     1>Project "C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci\HassanJasim_Lab_5.1\HassanJasim_Lab_5.1\HassanJasim_Lab_5.1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Users\Hassan\Desktop\Folders\Folders\School\Com-Sci\ComSci Mac\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\HassanJasim_Lab_5.1.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt HassanJasim_Lab_5.1.cpp
+         HassanJasim_Lab_5.1.cpp
+     1>c:\users\hassan\desktop\folders\folders\school\school assigments\comsci\hassanjasim_lab_5.1\hassanjasim_lab_5.1\hassanjasim_lab_5.1.cpp(21): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         C:\Users\Hassan\Desktop\Folders\Folders\School\Com-Sci\ComSci Mac\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci\HassanJasim_Lab_5.1\Debug\HassanJasim_Lab_5.1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci\HassanJasim_Lab_5.1\Debug\HassanJasim_Lab_5.1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci\HassanJasim_Lab_5.1\Debug\HassanJasim_Lab_5.1.lib" /MACHINE:X86 Debug\HassanJasim_Lab_5.1.obj
+         Debug\stdafx.obj
+         HassanJasim_Lab_5.1.vcxproj -> C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci\HassanJasim_Lab_5.1\Debug\HassanJasim_Lab_5.1.exe
+     1>Done Building Project "C:\Users\Hassan\Desktop\Folders\Folders\school\School assigments\ComSci\HassanJasim_Lab_5.1\HassanJasim_Lab_5.1\HassanJasim_Lab_5.1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.98
